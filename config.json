@@ -1,0 +1,6 @@
+{
+        "text_field": "text",
+        "label_field": "label",
+        "node_id_field": "node_id",
+        "neighbour_field": "neighbour"
+}
