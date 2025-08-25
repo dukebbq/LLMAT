@@ -1,7 +1,7 @@
 # LLM-Driven Semantic Augmentation for Few-Shot Node Classification on Text-Attributed Graphs
 
 ## LLMAT
-
+![The proposed framework](./LLMAT.png)
 ## Environment Settings
 > python==3.8.0 \
 > torch==1.12.0 \
